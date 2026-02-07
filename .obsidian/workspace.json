@@ -1,0 +1,615 @@
+{
+  "main": {
+    "id": "663fc49fe4145d0e",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd9134d0c80096ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c1656787dac4b06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "拟酒单/朗姆/经典莫吉托.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "经典莫吉托"
+            }
+          },
+          {
+            "id": "387dca68c8cc390d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "拟酒单/金酒/英式莫吉托.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "英式莫吉托"
+            }
+          },
+          {
+            "id": "d90227d18dd414b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "拟酒单/金酒/英式莫吉托.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "英式莫吉托"
+            }
+          },
+          {
+            "id": "617316f4732a4ccd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "起泡酒/Aperol Spritz.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aperol Spritz"
+            }
+          },
+          {
+            "id": "6edea1e4716861c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "起泡酒/Aperol Spritz.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aperol Spritz"
+            }
+          },
+          {
+            "id": "cc48fa49ddc12dd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "拟酒单/伏特加/Strawberry Vodka Soda（草莓伏特加苏打水）.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Strawberry Vodka Soda（草莓伏特加苏打水）"
+            }
+          },
+          {
+            "id": "41794f4fc3082e26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "需要的东西.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "需要的东西"
+            }
+          },
+          {
+            "id": "c4a1ce8f5b234913",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "拟酒单/伏特加/Strawberry Vodka Soda（草莓伏特加苏打水）.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Strawberry Vodka Soda（草莓伏特加苏打水）"
+            }
+          },
+          {
+            "id": "35f43664b0231bb3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "拟酒单/伏特加/Strawberry Vodka Soda（草莓伏特加苏打水）.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Strawberry Vodka Soda（草莓伏特加苏打水）"
+            }
+          },
+          {
+            "id": "fb74dc0611635950",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "拟酒单/伏特加/Strawberry Vodka Soda（草莓伏特加苏打水）.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Strawberry Vodka Soda（草莓伏特加苏打水）"
+            }
+          },
+          {
+            "id": "984be68d019e3c5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "需要的东西.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "需要的东西"
+            }
+          },
+          {
+            "id": "5d09b91243c7e8b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "拟酒单/伏特加/Strawberry Vodka Soda（草莓伏特加苏打水）.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Strawberry Vodka Soda（草莓伏特加苏打水）"
+            }
+          },
+          {
+            "id": "91be8ad5cb39bda3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "拟酒单/金酒/苦柠檬金酒.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "苦柠檬金酒"
+            }
+          },
+          {
+            "id": "e39ba672889414a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "拟酒单/金酒/金菲士.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "金菲士"
+            }
+          },
+          {
+            "id": "4a395ecc9cd797e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "拟酒单/金酒/金司令.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "金司令"
+            }
+          },
+          {
+            "id": "f95f06bbd12fdde8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "拟酒单/朗姆/经典莫吉托.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "经典莫吉托"
+            }
+          },
+          {
+            "id": "d3f1081e0dae597c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "拟酒单/金酒/Bennett Cocktail.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bennett Cocktail"
+            }
+          },
+          {
+            "id": "44a66e2285d009d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "需要的东西.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "需要的东西"
+            }
+          },
+          {
+            "id": "b5b477eb4714178a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "需要的东西.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "需要的东西"
+            }
+          },
+          {
+            "id": "f99a85685ef8977e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "拟酒单/朗姆/Cosmos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cosmos"
+            }
+          },
+          {
+            "id": "c9a1d6b517eb3770",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "拟酒单/朗姆/Cosmos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cosmos"
+            }
+          },
+          {
+            "id": "8b9ee07bf3ebf3a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "拟酒单/朗姆/daiquiri.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "daiquiri"
+            }
+          },
+          {
+            "id": "ee7776bfff44cd99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "注脚.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "注脚"
+            }
+          },
+          {
+            "id": "e9c437f9e61bac64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "拟酒单/伏特加/神风.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "神风"
+            }
+          },
+          {
+            "id": "e9692b7ced48cc6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "拟酒单/伏特加/斯坦利.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "斯坦利"
+            }
+          },
+          {
+            "id": "12c820581cba0fde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "拟酒单/伏特加/斯坦利.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "斯坦利"
+            }
+          },
+          {
+            "id": "2daa4419ce9c76db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "拟酒单/伏特加/Strawberry Vodka Soda（草莓伏特加苏打水）.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Strawberry Vodka Soda（草莓伏特加苏打水）"
+            }
+          },
+          {
+            "id": "b9b0d777b4586797",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "拟酒单/波本/old fashioned.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "old fashioned"
+            }
+          },
+          {
+            "id": "546d4f48d6e56f07",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "总览.base",
+                "viewName": "表格"
+              },
+              "icon": "lucide-table",
+              "title": "总览"
+            }
+          }
+        ],
+        "currentTab": 28
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "df4bfe34bbbe8c02",
+    "type": "split",
+    "children": [
+      {
+        "id": "5770703c0d4b46df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "826038d6b4f299a1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "3d2feda60ecb8133",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "72ea86fe3429e026",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4b18621c72269168",
+    "type": "split",
+    "children": [
+      {
+        "id": "f247d5f591ed5ba3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12e1aa6baaaef9eb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "总览.base",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "总览 的反向链接列表"
+            }
+          },
+          {
+            "id": "61726d29c320bc8d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "总览.base",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "总览 的出链列表"
+            }
+          },
+          {
+            "id": "b5e2ca45780970bc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "148a165290196080",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "f3f39a52ab9b4133",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "总览.base",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "总览 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "546d4f48d6e56f07",
+  "lastOpenFiles": [
+    "注脚.md",
+    "总览.base",
+    "拟酒单/金酒/切尔西旅馆.md",
+    "拟酒单/金酒/苦柠檬金酒.md",
+    "未命名.canvas",
+    "拟酒单/波本/薄荷茱莉普.md",
+    "2026-02-07.md",
+    "未命名 1.base",
+    "拟酒单/波本/加利福尼亚柠檬水.md",
+    "拟酒单/金酒/金司令.md",
+    "需要的东西.md",
+    "起泡酒/Aperol Spritz.md",
+    "起泡酒/桃子贝利尼.md",
+    "拟酒单/朗姆/RUM SWIZZLE.md",
+    "拟酒单/朗姆/Cosmos.md",
+    "拟酒单/朗姆/自由古巴.md",
+    "拟酒单/波本/old fashioned.md",
+    "拟酒单/波本/加拿大鸡尾酒.md",
+    "拟酒单/伏特加/伏特加司令.md",
+    "拟酒单/伏特加/苦柠檬伏特加.md",
+    "拟酒单/伏特加/神风.md",
+    "拟酒单/伏特加/斯坦利.md",
+    "拟酒单/伏特加/Strawberry Vodka Soda（草莓伏特加苏打水）.md",
+    "拟酒单/伏特加/vodka swizzle.md",
+    "拟酒单/朗姆/daiquiri.md",
+    "拟酒单/朗姆/经典莫吉托.md",
+    "拟酒单/金酒/琴蕾 Gimlet.md",
+    "拟酒单/金酒/Bennett Cocktail.md",
+    "拟酒单/伏特加",
+    "拟酒单/波本",
+    "拟酒单/朗姆",
+    "起泡酒",
+    "拟酒单/金酒",
+    "拟酒单"
+  ]
+}
